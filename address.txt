@@ -1,10 +1,10 @@
-8.212.41.98#Singapore
-8.212.64.214#Singapore
-47.57.233.126#United States
-8.212.19.60#Singapore
-8.212.64.214#Singapore
-8.212.41.98#Singapore
-47.243.70.197#United States
-47.242.79.71#United States
-47.243.70.197#United States
-47.243.179.249#United States
+47.74.26.196#Japan
+47.74.9.174#Japan
+8.209.246.24#Singapore
+47.245.40.55#Japan
+47.74.43.24#Japan
+47.245.58.175#Japan
+47.74.49.62#Japan
+47.74.12.139#Japan
+47.245.37.56#Japan
+8.209.212.5#Singapore
